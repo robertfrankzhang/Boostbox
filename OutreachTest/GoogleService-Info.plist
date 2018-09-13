@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>804168365970-5br8gsc9rvigsll96vnq6b69i9ofsbik.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.804168365970-5br8gsc9rvigsll96vnq6b69i9ofsbik</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAS1MN-zSubV9bE6qQs8g8Dx4S7YLJb8qQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>804168365970</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.launch.boostbox</string>
+	<key>PROJECT_ID</key>
+	<string>boostbox-ce76c</string>
+	<key>STORAGE_BUCKET</key>
+	<string>boostbox-ce76c.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:804168365970:ios:0c936fd2a89bc948</string>
+	<key>DATABASE_URL</key>
+	<string>https://boostbox-ce76c.firebaseio.com</string>
+</dict>
+</plist>
